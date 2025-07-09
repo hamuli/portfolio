@@ -1,4 +1,4 @@
-# portfolio
+# Data analyst/Scientist
 
 # Computer Science Graduate | Backend Developer (NestJS/Node.js) | Data Analyst | Humanitarian IM/IT Specialist
 
