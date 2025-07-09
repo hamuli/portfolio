@@ -1,6 +1,4 @@
-# Data analyst/Scientist
-
-# Computer Science Graduate | Backend Developer (NestJS/Node.js) | Data Analyst | Humanitarian IM/IT Specialist
+# Computer Science Graduate |Data analyst/Scientist | Humanitarian IM/IT Specialist
 
 ### Key Competencies
 - Strong experience in UX/UI or instructional design
