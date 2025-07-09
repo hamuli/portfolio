@@ -13,20 +13,45 @@
   Bachelor’s Degree in Computer Science, Specialization in Information Management 
   Kigali Independent University (ULK) 2019 | Gisenyi, Rwanda
 ### Work Experience 
-- Protection Information Management Specialist
-  Danish Refugee Council (DRC) – Goma, DR Congo February 2023 – Present
-- Wash Information Management and Accountability Coordinator
+** Protection Information Management Specialist
+Danish Refugee Council (DRC) – Goma, DR Congo February 2023 – Present
+ - Designed and implemented IM systems for protection monitoring, child protection, and gender-based violence (GBV) programs.
+ - Developed real-time dashboards using Power BI and Tableau for program performance monitoring.
+ - Ensured compliance with data privacy policies while managing sensitive protection information.
+ - Conducted training sessions for staff on data management practices and tools.
+ -  Collaborated with UNHCR, UNFPA, UNICEF, and other partners on protection coordination.
+** Wash Information Management and Accountability Coordinator
   Norwegian Refugee Council (NRC) – Goma, DR Congo September 2022 – January 2023
-- Information Management and Accountability Officer
+- Harmonized data management systems across sectors and developed reporting frameworks.
+- Led humanitarian assessments and generated analytical reports for informed decision-making.
+- Supervised cross-functional collaboration to enhance data-driven decision-making.
+- Streamlined data collection processes to ensure timely and accurate information sharing.
+** Information Management and Accountability Officer
   Norwegian Refugee Council (NRC) – Goma, DR Congo February 2022 – August 2022
--Monitoring, Evaluation, Accountability, and Learning Officer
+  - Conducted mobility trend analyses and produced actionable insights.
+- Supported the design and deployment of data collection tools.
+- Ensured data quality through regular audits and checks.
+- Worked closely with other teams to integrate data findings into organizational strategies.
+** Monitoring, Evaluation, Accountability, and Learning Officer
   MEDAIR – Goma, DR Congo September 2021 – February 2022
-- Information Management Officer / Data Analyst
+- Developed and implemented monitoring frameworks to assess program effectiveness.
+- Generated detailed reports based on quantitative and qualitative data.
+- Facilitated learning sessions to improve program design and implementation.
+- Established accountability frameworks to ensure program transparency.
+** Information Management Officer / Data Analyst
   Danish Refugee Council (DRC) – Lubero, North-Kivu, DR Congo February 2020 – July 2021
-- Database Analyst Volcanological
+- Led data collection processes and ensured data accuracy across multiple projects.
+- Designed and maintained dashboards to visualize key performance indicators.
+- Trained field staff on data management software and methodologies.
+- Produced analytical reports to highlight data trends and insights.
+  
+** Database Analyst Volcanological
   Observatory of Goma (OVG) – Goma, DR Congo February 2019 – January 2020
-- Boot Camp for Software Developers
-ANDELA July 01, 2018 – January 31, 2019 | Kigali, Rwanda
+- Analyzed volcanic data to produce technical reports and visualizations.
+- Maintained database integrity through regular updates and quality checks.
+- Collaborated with researchers to provide data insights for scientific studies.
+** Boot Camp for Software Developers
+ ANDELA July 01, 2018 – January 31, 2019 | Kigali, Rwanda
 
 ### Project 
 - Protection Monitoring Dashboard
